@@ -1,2 +1,8 @@
 Estruturas_de_Dados/
 Testes/
+*.exe
+*.o
+*.layout
+*.depend
+bin/
+obj/
