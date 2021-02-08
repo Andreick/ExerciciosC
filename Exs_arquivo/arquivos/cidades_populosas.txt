@@ -1,0 +1,32 @@
+Bagda					7180889
+Bangalore				8425970
+Bangkok					8280925
+Bogota					7776845
+Bombaim					12478447
+Cairo					8922949
+Cantao					11185600
+Carachi					13969284
+Chennai					8981087
+Chongqing				30165500
+Cidade de Ho Chi Minh			7681700
+Cidade do Mexico			8874724
+Deli					11007835
+Dhaka					8906039
+Dongguan				8220207
+Hong Kong				7219700
+Istambul				13907015
+Jacarta					9988329
+Kinshasa				9735000
+Lagos					16060307
+Lima					8500842
+Londres					8308369
+Moscou					12380664
+Nova Iorque				8405837
+Pequim					11716620
+Sao Paulo				12106920
+Seul					10388055
+Shenzhen				10467400
+Teera					8154051
+Tianjin					9341844
+Toquio					9071577
+Xangai					17836133
